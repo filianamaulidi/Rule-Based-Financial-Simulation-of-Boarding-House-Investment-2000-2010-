@@ -16,7 +16,7 @@ Key difficulties include:
 
 The core task is to carefully interpret these rules and convert them into a robust simulation engine capable of producing accurate yearly financial outcomes.
 
-# Steps to Do
+## Steps to Do
 The simulation is implemented through the run_simulation() function, which performs the following steps:
 + Initialize each investor’s financial state
 + Apply yearly investment and cost rules
@@ -26,7 +26,7 @@ The simulation is implemented through the run_simulation() function, which perfo
 
 The system applies rule parsing, financial modeling, and iterative simulation logic to ensure consistent computation.
 
-# Output & Results
+## Output & Results
 | Nama  | Saldo | Kamar |
 |------ |-------|-------|
 |Susi   |3532163122|  150  |
