@@ -1,7 +1,7 @@
 # Rule-Based Financial Simulation of Boarding House Investment 2000-2010
 
 ## Overview
-This project implements a rule-based financial simulation to model the business performance of boarding house (kos) investments over a 10-year period (2000–2010).
+This project implements a rule-based financial simulation to model the business performance of boarding house (kos-kosan) investments over a 10-year period (2000–2010).
 The simulation evaluates how initial capital, investment decisions, operational costs, and dynamic business rules influence the final number of rooms and remaining balance for each investor.
 
 The project focuses on translating textual business rules into a deterministic computational model and ensuring consistent, reliable financial calculations.
