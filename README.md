@@ -1,4 +1,11 @@
-# Rule-Based Financial Simulation of Boarding House Investment 2000-2010
+<img width="1929" height="2000" alt="Susi 💰 Rp100M 🔨 Rp15M 💹 10% 🏠 Rp800K (1)" src="https://github.com/user-attachments/assets/fe3ffda8-bafc-461f-b48d-e18f6d13a735" /># Rule-Based Financial Simulation of Boarding House Investment 2000-2010
+
+<p align="center">
+  <img alt="Cluster Visualization using PCA" 
+       src="https://github.com/user-attachments/assets/890f1151-cc28-4367-b860-12be2baa779c" width='500'/>
+  <br>
+  <em>Figure 1. Illustration of This Project's Summary</em>
+</p>
 
 ## Overview
 This project implements a rule-based financial simulation to model the business performance of boarding house (kos-kosan) investments over a 10-year period (2000–2010).
