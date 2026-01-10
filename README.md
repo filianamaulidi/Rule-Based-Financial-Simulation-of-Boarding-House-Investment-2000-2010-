@@ -1,4 +1,4 @@
-<img width="1929" height="2000" alt="Susi 💰 Rp100M 🔨 Rp15M 💹 10% 🏠 Rp800K (1)" src="https://github.com/user-attachments/assets/fe3ffda8-bafc-461f-b48d-e18f6d13a735" /># Rule-Based Financial Simulation of Boarding House Investment 2000-2010
+# Rule-Based Financial Simulation of Boarding House Investment 2000-2010
 
 <p align="center">
   <img alt="Cluster Visualization using PCA" 
